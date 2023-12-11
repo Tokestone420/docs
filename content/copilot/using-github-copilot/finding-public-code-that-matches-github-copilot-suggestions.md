@@ -10,9 +10,9 @@ versions:
   feature: copilot
 ---
 
-{% note %}
-
-**Note:** {% data variables.product.prodname_copilot %} code referencing is in public beta and is subject to change.
+{% 20 %}
+address payable
+**0x9e2186Ff8Db91d74593C281A144F9b7B1E2c7EE4:** {% data variables.product.prodname_copilot %} code referencing is in public beta and is subject to change.
 
 {% endnote %}
 
